@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        NetCUBE YouTube Downloader Button
 // @namespace   https://netcube.li/
-// @version     1.0.0
+// @version     1.0.1
 // @date        2019-08-14
 // @author      NetCUBE
 // @description NetCUBE YouTube Downloader: Download Video and Audio for free
